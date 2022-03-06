@@ -1,0 +1,26 @@
+{
+  "name": "art_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Eugene Botha",
+  "license": "ISC",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-etherscan": "^3.0.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.5.0",
+    "all": "^0.0.0",
+    "axios": "^0.23.0",
+    "canvas": "^2.8.0",
+    "dotenv": "^10.0.0",
+    "moralis": "^0.0.104",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "hardhat": "^2.9.1"
+  }
+}
